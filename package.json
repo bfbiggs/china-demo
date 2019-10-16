@@ -30,7 +30,6 @@
   "author": "Cisco Systems, Inc.",
   "license": "MIT",
   "dependencies": {
-    "@momentum-ui/react": "^16.0.0",
     "object-assign": "~4.1.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
